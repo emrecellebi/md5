@@ -1,0 +1,8 @@
+EXPORTS
+    md5_buffer @1
+    md5_finish_ctx @2
+    md5_init_ctx @3
+    md5_process_block @4
+    md5_process_bytes @5
+    md5_read_ctx @6
+    md5_stream @7
